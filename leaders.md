@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Abbas Naderi](mailto://abiusx@owasp.org)
+* [Abbas Naderi](mailto:abiusx@owasp.org)
